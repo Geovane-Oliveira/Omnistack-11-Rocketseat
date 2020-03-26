@@ -1,14 +1,18 @@
 Omnistack-11-Rocketseat
 Sema na Omnistack 11 da Rocketseat ministrada pelo Diego Fernandes
 
-Para utilizar o projeto execute npm install (Para o frontend e backend)
+Instruções para utilizar o projeto:
+
+Para utilizar o projeto execute npm install (Para o frontend e o backend).
+
+1 - rodar npm install
+2 - rodar npm start
 
 
-Para iniciar o ambiente de desenvolvimento digite:
+Caso encontre erros para executar o servidor do backend ou frontend, execute os passos:
 
-No backend:
-Backend npm start
-
-No frontend:
-Frontend npm start
+0 - rodar npm cache clean --force
+1 - Deletar a pasta node_modules
+2 - rodar npm install
+3 - rodar npm start
 
