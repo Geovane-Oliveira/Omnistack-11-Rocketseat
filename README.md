@@ -22,7 +22,7 @@
 Em:
 Substitua o baseURL pelo ip da sua máquina.
 
- ### Para rodar na rede (IP da máquina):
+ ### Para rodar no Expo e na rede (IP da máquina):
 baseURL: 'http://IP_da_maquina:3333'
 
  ### Abrindo no Expo:
