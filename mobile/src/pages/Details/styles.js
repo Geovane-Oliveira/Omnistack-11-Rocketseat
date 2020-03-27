@@ -5,13 +5,13 @@ export default StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 24,
-    paddingTop: Constants.statusBarHeight + 20,
+    paddingTop: Constants.statusBarHeight + 20
   },
 
   header: {
     flexDirection: "row",
     justifyContent: "space-between",
-    alignItems: "center",
+    alignItems: "center"
   },
 
   incident: {
@@ -52,13 +52,13 @@ export default StyleSheet.create({
   heroDescription: {
     fontSize: 15,
     color: "#737380",
-    marginTop: 16,
+    marginTop: 16
   },
 
   actions: {
     marginTop: 16,
     flexDirection: "row",
-    justifyContent: "space-between",
+    justifyContent: "space-between"
   },
 
   action: {
@@ -74,5 +74,5 @@ export default StyleSheet.create({
     color: "#fff",
     fontSize: 15,
     fontWeight: "bold"
-  },
+  }
 });
