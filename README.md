@@ -22,7 +22,9 @@
 Em:
 
  ### Por padrão este arquivo está configurado para rodar com o Expo
-baseURL: 'http://192.168.0.33:19000'
+baseURL: 'http://IP_mostrado_pelo_Expo:19000'
+
+Substitua o baseURL pelo ip mostrado pelo Expo.
 
  ### Para rodar na rede (IP da máquina):
 baseURL: 'http://IP_da_maquina:3333'
