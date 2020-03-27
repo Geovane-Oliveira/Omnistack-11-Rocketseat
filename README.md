@@ -20,13 +20,13 @@
  ### Editar o arquivo mobile\src\services\api.js
 
 Em:
-
- ### Por padrão este arquivo está configurado para rodar com o Expo
-baseURL: 'http://IP_mostrado_pelo_Expo:19000'
-
-Substitua o baseURL pelo ip mostrado pelo Expo.
+Substitua o baseURL pelo ip da sua máquina.
 
  ### Para rodar na rede (IP da máquina):
 baseURL: 'http://IP_da_maquina:3333'
+
+ ### Abrindo no Expo:
+
+Na pasta mobile, abra o cmd e execute yarn start
 
 
