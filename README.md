@@ -1,5 +1,7 @@
 # Semana Omnistack 11 da Rocketseat ministrada pelo Diego Fernandes
 
+Versão Web: [Be the Hero](https://be-the-hero11.netlify.com)
+
 ## Instruções para utilizar o projeto:
 
  ## Para utilizar o projeto execute npm install (Para o frontend e o backend).
