@@ -1,6 +1,6 @@
 # Semana Omnistack 11 da Rocketseat ministrada pelo Diego Fernandes
 
-Versão Web: [Be the Hero](https://be-the-hero11.netlify.com)
+Versão Web: [Be the Hero]<a href="https://be-the-hero11.netlify.com" target="_blank"></a>
 
 ## Instruções para utilizar o projeto:
 
